@@ -5,6 +5,7 @@
 #include <gmp.h>
 #include <iosfwd>
 
+// small comment
 struct big_integer
 {
     big_integer();
